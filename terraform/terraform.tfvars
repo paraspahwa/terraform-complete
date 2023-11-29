@@ -1,3 +1,3 @@
-ami_id = "ami-0fc5d935ebf8bc3bc"
+ami_id = "  "
 instance_type = "t2.micro"
 key_pair = "loginkey"
